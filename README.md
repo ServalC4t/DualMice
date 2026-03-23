@@ -1,4 +1,4 @@
-# DualMice
+# DualMice! - Browse while Fullscreen Gaming.
 
 [English](#english) | [日本語](#japanese)
 
